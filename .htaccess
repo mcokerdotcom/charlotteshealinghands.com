@@ -1,0 +1,11 @@
+DirectoryIndex index.html index.shtml index.cgi index.php index.php3 index.phtml index.htm home.html welcome.html
+
+RewriteEngine on
+RewriteRule about /?go=About [NC,L]
+RewriteRule home /?go=Home [NC,L]
+RewriteRule services /?go=Services [NC,L]
+RewriteRule reviews /?go=Reviews [NC,L]
+RewriteRule contact /?go=Contact [NC,L]
+RewriteRule resources /?go=Resources [NC,L]
+RewriteRule policies /?go=Policies [NC,L]
+RewriteRule store /?go=Store [NC,L]
