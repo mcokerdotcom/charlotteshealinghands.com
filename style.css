@@ -220,7 +220,7 @@ div.quotesig {
     margin: 0 0 1em;
 }
 
-.paypal {
+.paypal > form {
     padding-top: 5px;
     display: flex;
     flex-direction: column;
