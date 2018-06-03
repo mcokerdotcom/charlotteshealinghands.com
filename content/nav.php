@@ -1,14 +1,14 @@
 <ul>
 <?php
 $navelements['home'] = array('Home');
-$navelements['about'] = array('About');
 $navelements['services'] = array('Services');
-$navelements['reviews'] = array('Reviews');
-$navelements['contact'] = array('Contact');
 $navelements['resources'] = array('Resources');
 $navelements['policies'] = array('Policies');
 //$navelements['Events'] = array('Events');
+$navelements['reviews'] = array('Reviews');
 $navelements['store'] = array('Store');
+$navelements['about'] = array('About');
+$navelements['contact'] = array('Contact');
 foreach ($navelements as $page => $display_arr) {
         print "<li><a id=\"$page\"";
         if (preg_match("/$page/i", "$go")) {

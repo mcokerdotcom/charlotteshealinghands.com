@@ -71,10 +71,16 @@ body {
 
 #content p,
 #content h1,
-#content ul,
 #content h2,
 #map {
     margin-bottom: 12px;
+}
+
+#content ul {
+  margin-bottom: 6px;
+}
+#content li {
+  margin-bottom: 6px;
 }
 
 
@@ -201,14 +207,15 @@ div.quotesig {
     height: 100%;
 }
 
+.contentImg {
+    margin: 0 0 10px 10px;
+    float: right;
+    max-width: 200px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
 
 /* Store */
-
-.aboutImg {
-    margin: 0 0 10px 10px;
-    border: 1px solid #500000;
-    float: right;
-}
 
 .item {
     padding: 0 0 2em;
@@ -303,9 +310,13 @@ div.quotesig {
         width: auto;
         float: none;
     }
-    .aboutImg {
+}
+
+@media (max-width: 580px) {
+    .contentImg {
         float: none;
         display: block;
+        max-width: 66%;
         margin: 0 auto 15px;
     }
 }
