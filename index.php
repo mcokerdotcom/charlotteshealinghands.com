@@ -13,7 +13,7 @@ $title = str_replace('_',' ',$go);
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
 	<?php print "<title>Charlotte's Healing Hands Massage Therapy - $title </title>"; ?>
-	<link rel="stylesheet" href="/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/style.css?v=2" type="text/css" media="all" />
 	<link href='http://fonts.googleapis.com/css?family=Julee' rel='stylesheet' type='text/css'>
 	<link rel="icon" type="image/png" href="/images/ixchel_fav.png">
 </head>

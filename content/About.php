@@ -1,6 +1,9 @@
 <h1>About Charlotte</h1>
 
-<img src="https://images.pixieset.com/20956421/208317343aff19a81c71e7e5f938af95-large.jpg" class="contentImg" alt="Charlotte Westbrook">
+<div class="contentImg">
+    <img src="/images/208317343aff19a81c71e7e5f938af95-large.jpg" alt="Charlotte Westbrook">
+    Photo by <a href="http://rileyblanks.com/">Riley Blanks</a>
+</div>
 
 <p>
     From a very young age I recall being aware of a desire to help people. By the ripe age of seven I could be found massaging

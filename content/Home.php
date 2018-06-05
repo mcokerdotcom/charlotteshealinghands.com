@@ -11,7 +11,10 @@
     </a>
 </p>
 
-<img src="https://images.pixieset.com/20956421/9074646b103fc827a1467b916737e2b6-large.jpg" class="contentImg" alt="Charlotte Westbrook">
+<div class="contentImg">
+    <img src="/images/9074646b103fc827a1467b916737e2b6-large.jpg" alt="Charlotte Westbrook">
+    Photo by <a href="http://rileyblanks.com/">Riley Blanks</a>
+</div>
 
 <p>
     I specialize in The Arvigo Techniques of
