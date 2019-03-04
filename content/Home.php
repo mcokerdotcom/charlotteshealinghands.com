@@ -1,5 +1,3 @@
-<h1>Charlotte's Healing Hands</h1>
-
 <p>
     Clients are often referred to me from their Chiropractors, Acupuncturists, Naturopaths, friends and family and they often
     have no idea what to expect from a treatment from me. This is perfectly reasonable because anyone that has had a session

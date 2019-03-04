@@ -42,8 +42,18 @@
       <li>Add castor oil pack to biomat session for $5</li>
     </ul>
   </li>
-</ul>
+  <li>
+    <a href="https://my.timetrade.com/book/M7DT1" target="_blank" title="Time Trader - this will open in a new window">
+     <strong>Remote Healing 75 minute session - book now for $105</strong>
+  </a>
+  <ul>
+  <li>First session is $75 for a limited time
+</a>
+    </ul>
+   </li>
+  </ul>
 
+<br>
 <br>
 
 <p>
@@ -86,6 +96,9 @@
   </li>
   <li>
     <a href="#munay">Munay-Ki</a>
+  </li>
+  <li>
+    <a href="#Remote">Remote Healing</a>
   </li>
 </ul>
 
@@ -416,6 +429,21 @@
   <li>
     <a href="https://my.timetrade.com/book/J64QC" target="_blank" title="Time Trader - this will open in a new window">
       <strong>Book your 1.5hr session</strong>
+    </a>
+  </li>
+</ul>
+
+<br>
+<br>
+
+<h2 id="Remote">Remote Healing</h2>
+
+<p>Remote Healing Sessions utilize the powerful effects of Craniosacral Therapy, Pranic Healing and Reiki and allow you to experience their benefits from the comfort of your own home or location of choice.  These sessions can have a profound effect on the physical, emotional and mental states of being.    
+
+<ul>
+  <li>
+    <a href="https://my.timetrade.com/book/M7DT1 " target="_blank" title="Time Trader - this will open in a new window">
+      <strong>Book your 75 min session</strong>
     </a>
   </li>
 </ul>

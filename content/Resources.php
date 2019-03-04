@@ -1,11 +1,8 @@
 <h1>Resources from Charlotte</h1>
 
-<h2 class="resources">Forms</h2>
-<ul>
-	<li><a href="/files/client_paperwork.doc">Client Paperwork</a></li>
-	<li><a href="/files/female_intake_form_abdominal_massage.doc">Female Intake Form for Abdominal Massage</a></li>
-  <li><a href="/files/male_intake_form_abdominal_massage.doc">Male Intake Form for Abdominal Massage</a></li>
-</ul>
+<h2 class="resources">Intake Form</h2>
+ 
+<a href="https://www.soapvault.com/clinicPatientProfiles/intake/f7a99437b1e3ce6bffab5a9d90fc0637/" target="_blank" title="Client Intake Form-this will open in a new window">Client Intake Form</a>
 
 <h2 class="resources">Documents</h2>
 <ul>

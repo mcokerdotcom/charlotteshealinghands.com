@@ -1,2 +1,12 @@
 <a href="#" class="toggle menu"></a>
-<p>Charlotte's Healing Hands Massage Therapy</p>
+<?php
+if ($go == 'Home') {
+	$el = 'h1';
+} else {
+	$el = 'p';
+}
+?>
+<<?=$el;?> class="headerText">
+	Charlotte's Healing Hands
+	<span class="subheaderText">Charlotte Westbrook, LMBT</span>
+</<?=$el;?>>
